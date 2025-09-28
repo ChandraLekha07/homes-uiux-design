@@ -12,6 +12,6 @@ Card-style sections showcasing services and properties
 Video listings to highlight properties dynamically
 Team showcase to build trust and connection
 Blog section with tips, insights, and market trends
-Contact us form for quick inquiries and lead capture
+Contact us for quick inquiries and lead capture
 Clean, structured footer with social links and contact info
 This design emphasizes modern real estate needs and sustainable living aesthetics, perfect for engaging prospective homeowners.
